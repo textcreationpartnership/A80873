@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of a letter from Lieutenant-Generall Crumwell to Sir Thomas Fairfax commander in chiefe of the forces raised for the defence of the kingdome. Dated April 26. 1645. Of a great victory obtained by the said Lieutenant Generall Crumwell against a party of the Earle of Northamptons regiment, the Lord Wilmots regiment, and the Queenes regiment of horse neere Oxford. 200. killed in the fight, and in the chase. 200. prisoners taken. [double brace] 400. horse. The queens own colours. And great store of arms. Also, the taking of Bletchington-house by Lieutenant Generall Crumwell, a garrison of the Kings neere Oxford and kept by Colonell Windebanke, whether the residue of the enemy that escaped the former fight fled. With the coppy of the articles upon the surrender of the said house. 72 horse more taken in this house, 300 muskets, and great store of other armes and ammunition. Published by authority.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80873</idno>
+            <idno type="STC">Wing C7039</idno>
+            <idno type="STC">Thomason E279_7</idno>
+            <idno type="STC">ESTC R200030</idno>
+            <idno type="EEBO-CITATION">99860833</idno>
+            <idno type="PROQUEST">99860833</idno>
+            <idno type="VID">112958</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112958)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E279[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of a letter from Lieutenant-Generall Crumwell to Sir Thomas Fairfax commander in chiefe of the forces raised for the defence of the kingdome. Dated April 26. 1645. Of a great victory obtained by the said Lieutenant Generall Crumwell against a party of the Earle of Northamptons regiment, the Lord Wilmots regiment, and the Queenes regiment of horse neere Oxford. 200. killed in the fight, and in the chase. 200. prisoners taken. [double brace] 400. horse. The queens own colours. And great store of arms. Also, the taking of Bletchington-house by Lieutenant Generall Crumwell, a garrison of the Kings neere Oxford and kept by Colonell Windebanke, whether the residue of the enemy that escaped the former fight fled. With the coppy of the articles upon the surrender of the said house. 72 horse more taken in this house, 300 muskets, and great store of other armes and ammunition. Published by authority.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coles in the Old-baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: Ap: 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Oxford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112958:1" rendition="simple:additions"/>
+            <p>An Abſtract of a Letter FROM Lieutenant-Generall CRVMWELL to Sir THOMAS FAIRFAX Com<g ref="char:EOLhyphen"/>mander in chiefe of the Forces raiſed for the defence of the Kingdome. Date <hi>April</hi> 26. 1645.</p>
+            <p>Of a great Victory obtained by the ſaid Lieutenant Generall CRVMWELL againſt a party of the Earle of <hi>Northamptons</hi> Regi<g ref="char:EOLhyphen"/>ment, the Lord <hi>Wilmots</hi> Regiment, and the Queenes Regiment of Horſe neere Oxford.</p>
+            <list>
+               <item>200. <hi>Killed in the fight, and in the chaſe.</hi>
+               </item>
+               <item>200. <hi>Priſoners taken.</hi>
+               </item>
+               <item>400. <hi>Horſe.</hi>
+               </item>
+               <item>
+                  <hi>The Queens own Colours.</hi>
+               </item>
+               <item>
+                  <hi>And great ſtore of Armes.</hi>
+               </item>
+            </list>
+            <p>ALSO, The taking of <hi>Bletchington</hi>-houſe by Lieutenant Generall CRUMWELL, a Garriſon of the Kings neere <hi>Oxford</hi> and kept by Colonell <hi>Windebanke,</hi> whether the reſidue of the enemy that eſcaped the former fight fled. With the coppy of the Articles upon the ſurrender of the ſaid houſe.</p>
+            <p>72 <hi>Horſe more taken in this houſe,</hi> 300 <hi>Muskets, and great ſtore of other Arm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and Ammunition.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Publiſhed by Authority.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Coles</hi> in the Old-baily. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112958:2"/>
+            <pb n="1" facs="tcp:112958:2"/>
+            <head>AN ABSTRACT Of the Letter, ſent from Gene<g ref="char:EOLhyphen"/>rall <hi>Crumwell</hi> to Sir <hi>Thomas Fairfax,</hi> Commander in chiefe of the Forces raiſed for the defence of the Kingdome.</head>
+            <opener>
+               <salute>Right Honourable:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Met at my Randezvous at <hi>No<g ref="char:EOLhyphen"/>tingham,</hi> on Wedneſday laſt, where I ſtaid ſomewhat long for the comming up of the Bodie of Horſe, which Gods Honour was pleaſed to give me command of<g ref="char:punc">▪</g> After the comming where<g ref="char:EOLhyphen"/>of I marched with all ex<g ref="char:EOLhyphen"/>pedition to <hi>Wheatly</hi>-Bridge, having ſent before to Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Browne,</hi> for what Intelligence he could afford me of the ſtate of affaires in <hi>oxford,</hi> I being not ſo well acquainted in thoſe parts, and the con<g ref="char:EOLhyphen"/>dition and number of the Enemy in <hi>Oxford,</hi> as him<g ref="char:EOLhyphen"/>ſelfe
+<pb n="2" facs="tcp:112958:3"/>informed me by Letters; That Prince <hi>Maurice</hi> his Forces were not in <hi>Oxford,</hi> (as I ſuppoſ'd, and that as he was informed by foure very honeſt and faithfull Gentlemen, that came out of <hi>Oxford</hi> to him a little before the Receipt of this Letter, that there were Twelve Peeces of Ordnance, with their Carria<g ref="char:EOLhyphen"/>ges and Waggons, readie for a March, and in ano<g ref="char:EOLhyphen"/>ther place Five more Peeces, with their Carriages, another readie to Advance with their Convoy: After I received this ſatisfaction from Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Browne,</hi> I advanced this Morning, being Thurſ<g ref="char:EOLhyphen"/>day, the Twenty fourth of <hi>Aprill,</hi> neere <hi>Oxford,</hi> then I lay before the Enemie perceiving it at <hi>Oxford,</hi> and they being in readineſſe to advance, ſent out a par<g ref="char:EOLhyphen"/>tie of Horſe againſt me, part of the Queenes Re<g ref="char:EOLhyphen"/>giment, part of the Earle of <hi>Northamptons</hi> Regi<g ref="char:EOLhyphen"/>ment, and parte of the Lord <hi>Wilm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes</hi> Regiment, who made an Infall upon mee whereupon your Honours Regiment (lately mine owne) I drew forth againſt the Enemie (who had drawne themſelves into ſeverall Squadrons, to be readie for Action) and your Honours owne Troope therein, I comman<g ref="char:EOLhyphen"/>ded to Charge a Squadron of the Enemie, who performed it ſo gallantly, that after a ſhort fiering they entred the whole Squadron, and put them to a Confuſion, and the reſt of my Horſe preſently entring after them, they made a Totall Roote of the Enemie, and had the Chace of them three or ſoure Miles, and killed Two Hundred, tooke as many Priſoners, and about Foure Hundred Horſe, and the Queenes Colours Richly Embrodered with the Crowne in the midſt, and Eighteene Flower-Deluces
+<pb n="3" facs="tcp:112958:3"/>wrought about all in Gold, with a Gol<g ref="char:EOLhyphen"/>den Croſſe on the Top: many eſcapt to <hi>Oxford,</hi> and divers were drowned, parte of them likewiſe betooke themſelves to a ſtrong Houſe in <hi>Bletchington,</hi> where Colonell <hi>Windebanke</hi> kept a Garriſon with neere Two Hundred Horſe and Foote therein, which after ſurrounded I ſummoned, but they ſeemed ve<g ref="char:EOLhyphen"/>ry delatory in their Anſwer, at laſt they ſent out Articles to me of Surrender (which I have ſent your Honour incloſed) and after a large Treatie there<g ref="char:EOLhyphen"/>upon, the Surrender was agreed uon between us, they left behind them between two and Three Hun<g ref="char:EOLhyphen"/>dred Muſquets, Seventy Horſes, beſides other Armes and Ammunition: I Humbly reſt</p>
+            <closer>
+               <dateline>
+                  <date>25 of <hi>Aprill,</hi> 1645.</date>
+               </dateline>
+               <signed>Your Honours Humble Servant <hi>Oliver Crumwell</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:112958:4"/>
+            <head>ARTICLES OF Agreement upon the ſurrender of <hi>Bletchington-Houſe:</hi> Between Lieutenant Generall <hi>Cromwell,</hi> and Colonell <hi>Windebanke,</hi> April 24. Anno 1645.</head>
+            <list>
+               <item>
+                  <hi>1.</hi> IT is agreed that all Officers of Horſe of Commiſſion of the Garriſon ſhall march away with their, Horſe Swords, and Piſtolls.</item>
+               <item>
+                  <hi>2.</hi> That the Colonell of the Gariſon, and the Maior march away with their Horſe, Swords, and Piſtolls, and the Captaines of the Fort to march with their horſe and ſwords.</item>
+               <item>
+                  <hi>3.</hi> That all Souldiers in the Garriſon march away leaving their Armes, Colours, and Drummes behind them, and for ſuch Officers of horſe as retreated thi<g ref="char:EOLhyphen"/>ther for ſafety to march away with their ſwords.</item>
+               <pb n="7" facs="tcp:112958:4"/>
+               <item>
+                  <hi>4.</hi> That Maſter <hi>Huchington,</hi> Maſter <hi>Ernely,</hi> Master <hi>Eddes,</hi> and Maſter <hi>Pitts,</hi> being Gentlemen that came to viſit the Governour and not ingaged, ſhall march away with their horſes, ſwords, and Piſtolls.</item>
+               <item>
+                  <hi>5.</hi> That all the other Armes and Ammunition ſhall be delivered up imediatly to Lieutenant Generall <hi>Crom<g ref="char:EOLhyphen"/>well</hi> without imbezeling, except as above mentioned.</item>
+               <item>
+                  <hi>6.</hi> That ſafe conduct be granted by the Lieutenant Generall, for all the above mentioned to Oxford.</item>
+               <item>
+                  <hi>7.</hi> That the Colonells Wife, her two Servants and Chaplaine with their horſes march along with the Co<g ref="char:EOLhyphen"/>lonell.</item>
+               <item>
+                  <hi>8.</hi> That the Lad of the Houſe ſhall enjoy her goods as aforeſaid without plunder, and all her family.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
